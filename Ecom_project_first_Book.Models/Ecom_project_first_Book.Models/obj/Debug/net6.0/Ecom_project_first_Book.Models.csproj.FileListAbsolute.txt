@@ -1,0 +1,12 @@
+D:\ASP.netcore_projects\Ecom_project_first_Book\Ecom_project_first_Book.Models\Ecom_project_first_Book.Models\bin\Debug\net6.0\Ecom_project_first_Book.Models.deps.json
+D:\ASP.netcore_projects\Ecom_project_first_Book\Ecom_project_first_Book.Models\Ecom_project_first_Book.Models\bin\Debug\net6.0\Ecom_project_first_Book.Models.dll
+D:\ASP.netcore_projects\Ecom_project_first_Book\Ecom_project_first_Book.Models\Ecom_project_first_Book.Models\bin\Debug\net6.0\Ecom_project_first_Book.Models.pdb
+D:\ASP.netcore_projects\Ecom_project_first_Book\Ecom_project_first_Book.Models\Ecom_project_first_Book.Models\obj\Debug\net6.0\Ecom_project_first_Book.Models.csproj.AssemblyReference.cache
+D:\ASP.netcore_projects\Ecom_project_first_Book\Ecom_project_first_Book.Models\Ecom_project_first_Book.Models\obj\Debug\net6.0\Ecom_project_first_Book.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP.netcore_projects\Ecom_project_first_Book\Ecom_project_first_Book.Models\Ecom_project_first_Book.Models\obj\Debug\net6.0\Ecom_project_first_Book.Models.AssemblyInfoInputs.cache
+D:\ASP.netcore_projects\Ecom_project_first_Book\Ecom_project_first_Book.Models\Ecom_project_first_Book.Models\obj\Debug\net6.0\Ecom_project_first_Book.Models.AssemblyInfo.cs
+D:\ASP.netcore_projects\Ecom_project_first_Book\Ecom_project_first_Book.Models\Ecom_project_first_Book.Models\obj\Debug\net6.0\Ecom_project_first_Book.Models.csproj.CoreCompileInputs.cache
+D:\ASP.netcore_projects\Ecom_project_first_Book\Ecom_project_first_Book.Models\Ecom_project_first_Book.Models\obj\Debug\net6.0\Ecom_project_first_Book.Models.dll
+D:\ASP.netcore_projects\Ecom_project_first_Book\Ecom_project_first_Book.Models\Ecom_project_first_Book.Models\obj\Debug\net6.0\refint\Ecom_project_first_Book.Models.dll
+D:\ASP.netcore_projects\Ecom_project_first_Book\Ecom_project_first_Book.Models\Ecom_project_first_Book.Models\obj\Debug\net6.0\Ecom_project_first_Book.Models.pdb
+D:\ASP.netcore_projects\Ecom_project_first_Book\Ecom_project_first_Book.Models\Ecom_project_first_Book.Models\obj\Debug\net6.0\ref\Ecom_project_first_Book.Models.dll
